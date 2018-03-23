@@ -11,3 +11,7 @@ PS C:\demo\web> git push -u origin master
 PS C:\demo\amy> git clone https://github.com/sirivanhsoutannouvong/formationGitAvance.git
 
 PS C:\demo\joe\formationGitAvance> git checkout -b joe
+PS C:\demo\joe\formationGitAvance> git status
+
+commit staged
+commit staged ammend #avant un push
