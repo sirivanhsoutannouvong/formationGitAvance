@@ -1,0 +1,13 @@
+PS C:\demo\web> git init
+Initialized empty Git repository in C:/demo/web/.git/
+git remote add origin https://github.com/sirivanhsoutannouvong/formationGitAvance.git
+PS C:\demo\web> git add .
+PS C:\demo\web> git commit -m "Initial commit"
+PS C:\demo\web> git config --global user.email "sirivanh.soutannouvong@radio-canada.ca"
+PS C:\demo\web> git config --global user.name "sirivanh"
+PS C:\demo\web> git commit -m "Initial commit"
+PS C:\demo\web> git push -u origin master
+
+PS C:\demo\amy> git clone https://github.com/sirivanhsoutannouvong/formationGitAvance.git
+
+PS C:\demo\joe\formationGitAvance> git checkout -b joe
